@@ -1,0 +1,19 @@
+.slider-holder
+  {
+    display: none;
+  }
+nav > a
+  {
+    font-size: 25px;
+    padding: 10px;
+    margin-right: 20px;
+  }
+.menu
+  {
+    gap: 10px;
+  }
+footer
+  {
+    margin-top: 100px;
+    margin-left: 20px;
+  }

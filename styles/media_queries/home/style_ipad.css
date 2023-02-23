@@ -1,0 +1,32 @@
+.slider-holder
+  {
+    display: none;
+  }
+nav > a
+  {
+    font-size: 25px;
+    padding: 10px;
+    margin-right: 20px;
+  }
+.home-container
+  {
+    display : flex;
+    flex-wrap: wrap;
+    width: 80%;
+    gap: 10px;
+    margin-left: 40px;
+  }
+.quotes
+  {
+    width: 383px;
+    height: 550px;
+    border: 2px solid black;
+    margin-top: 30px;
+    float: left;
+    margin-left: 155px;
+  }
+footer
+  {
+    margin-top: 650px;
+    margin-left: 20px;
+  }

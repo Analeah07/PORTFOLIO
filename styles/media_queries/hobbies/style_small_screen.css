@@ -1,0 +1,44 @@
+body
+    {
+        background-image: none;
+        background-color: black;
+        color: aliceblue;
+    }
+nav
+    {
+        background-color: black;
+        color: aliceblue;
+    }
+.other_hobbies
+    {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        height: 50px;
+        background-color: black;
+    }
+.other_hobbies > .pics
+    {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 2px;
+        background-color: black;
+    }
+h2
+    {
+        margin-top: 3px;
+        color: aliceblue;
+    }
+.My_Hobby
+    {
+        background-color: black;
+        border: 2px solid beige;
+    }
+section.hobby
+    {
+        background-color: rgb(116, 43, 43);
+    }
+footer
+    {
+        margin-top: 300px;
+    }

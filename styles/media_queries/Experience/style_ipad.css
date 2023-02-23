@@ -1,0 +1,10 @@
+@media (min-width:481px) and (max-width:768px)
+{
+    input{
+        height:40px;
+        font-size: 15px;
+    }
+    label{
+        font-size: 14px;
+    }
+}
